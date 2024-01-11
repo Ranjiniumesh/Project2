@@ -1,4 +1,5 @@
 #!/bin/bash
+
 echo "enter the file name"
 read filename
 count=`wc -l $filename | awk -F " " '{print$1}'`
