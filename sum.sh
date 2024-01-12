@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "content added"
-#echo $sum
+#echo
 #echo "enter the num to find the sum of first n numbers"
 #read num
 sum=0
