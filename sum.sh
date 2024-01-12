@@ -1,6 +1,7 @@
-!/bin/bash
-echo "content added"
-echo $num
+#!/bin/bash
+#echo "content added"
+#echo $num
+#while [ $num -gt 0 ]
 echo "enter the num to find the sum of first n numbers"
 read num
 sum=0
